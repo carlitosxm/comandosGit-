@@ -1,2 +1,5 @@
 git clone: Permite descargar o clonar el código fuente de un repositorio remoto existente a un directorio local en nuestra computadora.
 git commit: Captura una instantánea de los cambios preparados en el área de stagin, guardándolos de forma permanente en el historial del repositorio local junto con un mensaje descriptivo.
+git push: Sube los commits del repositorio local al repositorio remoto para actualizar las ramas compartidas.
+git status: Muestra el estado actual del directorio de trabajo y del área de preparación (staging), permitiendo ver qué cambios han sido modificados, cuáles están listos para el commit y cuáles no están bajo el seguimiento de Git.
+git add: Agrega los archivos modificados o nuevos al área de preparación (staging area) para incluirlos en el próximo commit.
