@@ -1,1 +1,2 @@
 git clone: Permite descargar o clonar el código fuente de un repositorio remoto existente a un directorio local en nuestra computadora.
+git commit: Captura una instantánea de los cambios preparados en el área de stagin, guardándolos de forma permanente en el historial del repositorio local junto con un mensaje descriptivo.
