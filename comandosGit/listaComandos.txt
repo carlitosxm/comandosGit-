@@ -1,0 +1,1 @@
+git clone: Permite descargar o clonar el código fuente de un repositorio remoto existente a un directorio local en nuestra computadora.
